@@ -62,6 +62,7 @@ while(temp != null){
 }
         return larger;
     }
+
     public static int summ(Node head){
         int sum=0;
         Node temp = head;
@@ -97,6 +98,15 @@ public static int posOfValue(Node head, int value){
         }
     return -1;
 }
+
+
+
+
+
+
+
+
+
     public static void main(String[] args) {
 
         Node h1 = new Node(9);
