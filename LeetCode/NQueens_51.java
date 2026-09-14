@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class NQueens {
+public class NQueens_51 {
 
     class Solution {
     public List<List<String>> solveNQueens(int n) {
