@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.stacks;
 import java.util.*;
 
 public class MinStack_155 {

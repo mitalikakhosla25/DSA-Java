@@ -11,7 +11,7 @@ class UsingArray{
             arr = new int[size];
             top = -1;
 
-        }
+        } 
 
         void push(int value){
             if(top == arr.length-1){
