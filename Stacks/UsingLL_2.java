@@ -1,5 +1,5 @@
 //IMPLEMENTING USING LINKED LIST
-public class UsingLL {
+public class UsingLL_2 {
 
     static class Node{
         int data;

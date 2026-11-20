@@ -2,7 +2,7 @@
 // STACK IMPLEMENTATION USING ARRAY 
 // STACK IMPLEMENTATION USING LINKED LIST : UsingLL.java
 // LC : 155 , 739 
-class UsingArray{
+class UsingArray_1{
 
     static class Stack{
         int[] arr;
