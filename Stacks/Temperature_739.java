@@ -1,4 +1,4 @@
-package LeetCode;
+
 import java.util.*;
 public class Temperature_739 {
     class Solution {
