@@ -4,18 +4,10 @@
 // we'll have:
 //        slow →
 //        fast →
-package Arrays.TwoPointer_Sliding;
+package Arrays;
 
 public class DiffDirctn_2 {
     public static int RemDup(int[] arr){
-
-        
-
-
-
-
-
-
         return 0;
     }
 

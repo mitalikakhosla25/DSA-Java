@@ -1,3 +1,4 @@
+package Arrays;
 // TWO POINTER VARIATIONS : 
 // 1. Opposite Direction
 // 2. Same Direction
